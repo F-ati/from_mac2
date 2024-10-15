@@ -1,0 +1,13 @@
+
+hhl;kj
+oot
+
+/root/minishell
+
+
+
+
+cd
+w cd m3a absolute path
+mn lakher adir chdir (path) ida kan dak path khawi ca veut dire ma kinx maxi fih '\0' dak sa3a kad3ml chdir ($HOME) ida kan kayn HOME f env ida maknaxi katla3 lo home ma kaynxi
+mli d9areb dsali tini njareb
