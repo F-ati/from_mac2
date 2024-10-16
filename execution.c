@@ -84,6 +84,7 @@ void ft_is_builtins(t_shell *minishell)
 		else if ( ft_strcmp("export",minishell->list->command[0]) == 0)
 		{
 			//  add the element aussi in the env;
+			// whitout = just in the export;
 			ft_export(minishell);
 		}
 		else if (ft_strcmp("unset",minishell->list->command[0]) == 0 )
